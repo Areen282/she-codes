@@ -1,0 +1,1 @@
+countletters("shecodes", "e") ; 
